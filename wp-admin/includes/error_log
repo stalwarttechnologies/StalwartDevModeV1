@@ -1,0 +1,1 @@
+[24-Aug-2016 19:01:28 UTC] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/shashinengineer/public_html/stalwart-technologies.com/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
